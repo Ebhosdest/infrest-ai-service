@@ -1,0 +1,64 @@
+id,account_code,account_name,account_type,sub_type,is_active,currency,created_at
+40ab9815-e4e0-4f3f-a6c1-ba402d4dbddc,1000,Cash and Cash Equivalents,Asset,Bank,True,NGN,2024-01-01 00:00:00
+f02276c0-bff6-4dd4-8c15-f183f81a4669,1001,GTBank Operating Account,Asset,Bank,True,NGN,2024-01-01 00:00:00
+f912674f-47c2-4131-95e4-6601d3516223,1002,Zenith Bank Savings,Asset,Bank,True,NGN,2024-01-01 00:00:00
+0ac6f486-4488-4c8e-9cf1-a864210e9948,1003,First Bank USD Account,Asset,Bank,True,NGN,2024-01-01 00:00:00
+992ae882-48aa-424d-be27-d61628612df5,1010,Petty Cash,Asset,Cash,True,NGN,2024-01-01 00:00:00
+39a3ee83-f10e-4792-a920-1bcf2e79b8f7,1100,Accounts Receivable,Asset,Receivable,True,NGN,2024-01-01 00:00:00
+be619cb6-eed3-46a4-960e-cd8805131d43,1101,Trade Receivables,Asset,Receivable,True,NGN,2024-01-01 00:00:00
+6a0c0f18-8c46-4307-b437-379bd1a595b3,1102,Staff Receivables,Asset,Receivable,True,NGN,2024-01-01 00:00:00
+0811ea9c-fd7a-4bcd-9a4a-31312e37f4a5,1200,Inventory,Asset,Current Asset,True,NGN,2024-01-01 00:00:00
+092879de-8038-45e8-b46d-b73f87b0e0ef,1201,Raw Materials,Asset,Current Asset,True,NGN,2024-01-01 00:00:00
+93a0f2bc-1b6d-49b5-8169-48a78e80c3d3,1202,Finished Goods,Asset,Current Asset,True,NGN,2024-01-01 00:00:00
+14dc9408-65be-4acd-8616-facf6c6b6615,1203,Work in Progress,Asset,Current Asset,True,NGN,2024-01-01 00:00:00
+2e704475-6638-4038-b41c-481551aac599,1300,Prepaid Expenses,Asset,Current Asset,True,NGN,2024-01-01 00:00:00
+53cabd45-f3ee-4705-8619-59bb64d8ee27,1400,Fixed Assets,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+5339f5c3-bfe1-40e8-804a-264855676b30,1401,Office Equipment,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+e89145cb-f854-4684-a7e2-7620d2d0059c,1402,Vehicles,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+84a69398-2a84-41c5-801f-1cdb34052580,1403,Furniture & Fittings,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+4e099053-659a-4d33-90ad-9f73b1803e22,1404,Computer Equipment,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+50287ca0-f4b3-4cdf-94ac-478ddb0922bf,1405,Land & Buildings,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+08d62cbe-412d-4604-8f01-7ecc80f64813,1500,Accumulated Depreciation,Asset,Non-Current Asset,True,NGN,2024-01-01 00:00:00
+50c217d2-1a85-4131-bfca-7d42161d5ca7,2000,Accounts Payable,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+02c4079b-8eb7-4bf9-b9a4-9a8cd9e97d85,2001,Trade Payables,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+e5193536-3d24-49bc-bc8f-8b0c697e63c9,2100,Accrued Expenses,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+cb6e0b4e-ee0f-43f4-b506-965d0669ddf0,2200,VAT Payable,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+02d44081-f7f6-4788-8cf8-0825e2b67ddc,2300,WHT Payable,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+408332f2-637a-4854-8325-2a2222471598,2400,Salaries Payable,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+aa59e420-6328-44b4-b8a9-724f9e0f2f7e,2500,Short-Term Loans,Liability,Current Liability,True,NGN,2024-01-01 00:00:00
+13b8effa-c66b-494f-875a-7d930b5a94f5,2600,Long-Term Loans,Liability,Non-Current Liability,True,NGN,2024-01-01 00:00:00
+245af827-560e-4bca-901c-6ee82ce9dba4,2700,Pension Liability,Liability,Non-Current Liability,True,NGN,2024-01-01 00:00:00
+95a29618-0063-41fd-a27d-1b35b60af28e,3000,Share Capital,Equity,Equity,True,NGN,2024-01-01 00:00:00
+45b41bd9-abce-4bcd-8a15-b50b26144dc2,3100,Retained Earnings,Equity,Equity,True,NGN,2024-01-01 00:00:00
+32748d1b-3efd-426c-9645-31a2cced3ecb,3200,Current Year Earnings,Equity,Equity,True,NGN,2024-01-01 00:00:00
+e98b92be-91a5-43b5-88f0-5b0ac1ad1bea,4000,Sales Revenue,Revenue,Operating Revenue,True,NGN,2024-01-01 00:00:00
+df6f4295-d5d5-431a-a836-1d1e2301680f,4001,Product Sales,Revenue,Operating Revenue,True,NGN,2024-01-01 00:00:00
+0fde892d-0bc6-4f67-beaf-3b31fd265b3e,4002,Service Revenue,Revenue,Operating Revenue,True,NGN,2024-01-01 00:00:00
+d7aa0c22-f643-4029-a26a-192078d805a1,4003,Consulting Revenue,Revenue,Operating Revenue,True,NGN,2024-01-01 00:00:00
+419a31df-4a7b-46ad-96dd-a555ae71bae7,4100,Interest Income,Revenue,Other Revenue,True,NGN,2024-01-01 00:00:00
+a420d2d8-a5bc-49da-8242-1e3e50fcb5e1,4200,Other Income,Revenue,Other Revenue,True,NGN,2024-01-01 00:00:00
+d28ecb38-b6a9-437a-a670-8f48c912e40c,5000,Cost of Goods Sold,Expense,Direct Cost,True,NGN,2024-01-01 00:00:00
+ec0d7af4-feb5-4673-8e0d-f89eea79b145,5001,Material Costs,Expense,Direct Cost,True,NGN,2024-01-01 00:00:00
+28f40be5-b4e8-4da5-aa02-e1b7fd88421c,5002,Direct Labour,Expense,Direct Cost,True,NGN,2024-01-01 00:00:00
+8364bc79-cf7e-4b26-8958-c4f3dd923819,5003,Manufacturing Overhead,Expense,Direct Cost,True,NGN,2024-01-01 00:00:00
+379cf6b4-e5ff-4165-aba1-82b1f72ab329,5100,Salaries & Wages,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+aaa9d2f5-b936-43f1-a383-c59ad7baa57f,5101,Staff Benefits,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+0d9d1a9b-57c3-4c71-9832-331f18cdfc52,5102,Pension Contributions,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+01911598-5c19-402b-992f-8d3158716fc7,5200,Rent & Utilities,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+a92ae34d-c81a-4d52-b245-da6ead7d2169,5201,Office Rent,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+a145fcc9-09b1-41eb-8b01-978aa4b6f9de,5202,Electricity & Power,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+a511c6cc-4fc4-4cb5-bbb6-69be52d7e6bd,5203,Internet & Telecom,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+7029e110-8180-4b77-9d50-b26e0b3e4065,5300,Professional Fees,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+acabf92f-6572-45e7-9738-796072b736de,5301,Legal Fees,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+95e50a0c-3ad2-4988-8e74-58928bea081b,5302,Audit Fees,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+65c1c5a3-1b1e-48e1-a96f-2e3cecf62638,5303,Consulting Fees,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+046d1d5b-e628-4847-9463-8bcf344284ea,5400,Marketing & Advertising,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+4e5cc78f-620c-411d-9fe3-3c08b379c217,5500,Travel & Transport,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+6b81642e-3dc7-4c77-81f3-38e010b0575a,5600,Depreciation Expense,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+0086912e-4210-4f74-9cc6-0b4c3ac15c6c,5700,Insurance,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+165a24b0-829b-43e7-b2a3-ee88f0035aef,5800,Office Supplies,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+3f0111bc-65e7-42d8-80bb-c4e9aac4b2de,5900,Repairs & Maintenance,Expense,Operating Expense,True,NGN,2024-01-01 00:00:00
+b708f55d-cc87-468d-8f49-3b9ebb711af8,6000,Bank Charges,Expense,Financial Expense,True,NGN,2024-01-01 00:00:00
+f972db68-6886-4f4c-9a10-8a36a02d56b0,6100,Interest Expense,Expense,Financial Expense,True,NGN,2024-01-01 00:00:00
+520687d4-e38c-43f4-bb57-0daf22016867,6200,Foreign Exchange Loss,Expense,Financial Expense,True,NGN,2024-01-01 00:00:00
+4e48098d-c732-4f4d-9f2a-2df90e999ede,6300,Tax Expense,Expense,Tax,True,NGN,2024-01-01 00:00:00

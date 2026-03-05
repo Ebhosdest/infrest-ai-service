@@ -1,0 +1,33 @@
+databases:
+  - name: infrest-db
+    plan: free
+    databaseName: infrest_erp
+    user: infrest
+
+services:
+  - type: web
+    name: infrest-ai-service
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: LLM_PROVIDER
+        value: openai
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        fromDatabase:
+          name: infrest-db
+          property: connectionString
+      - key: DATABASE_READONLY_URL
+        fromDatabase:
+          name: infrest-db
+          property: connectionString
+      - key: DEBUG
+        value: false
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: PYTHON_VERSION
+        value: "3.11.9"

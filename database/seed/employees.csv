@@ -1,0 +1,114 @@
+id,employee_code,first_name,last_name,email,phone,department,position,annual_salary,hire_date,employment_type,location,status,created_at
+db1fa505-d9cc-48ca-9e67-3a7dc4a1e021,EMP-0001,Zainab,Quadri,zainab.quadri@infrest.com,+2348894475340,Executive,Managing Director,17966000.0,2021-01-10,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.458771
+c2cea9ec-7da0-48f3-95d2-4041a87e3fe7,EMP-0002,Zainab,Yakubu,zainab.yakubu@infrest.com,+2348062861709,Executive,Managing Director,20147000.0,2022-01-30,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.458803
+f425c095-0e0b-427a-9a01-773901b2fe8b,EMP-0003,Emeka,Lawal,emeka.lawal@infrest.com,+2348902124172,Executive,Chief Technology Officer,13402000.0,2024-04-07,Full-Time,Lagos,Active,2026-02-23 10:54:51.458821
+e924e942-2636-4d55-a146-0504952bfdae,EMP-0004,Zainab,Hassan,zainab.hassan@infrest.com,+2348894519758,Executive,Managing Director,21490000.0,2024-07-04,Full-Time,Lagos,Active,2026-02-23 10:54:51.458836
+41305b34-2ce5-4524-83d2-945750f27a0e,EMP-0005,Aisha,Dikko,aisha.dikko@infrest.com,+2348351913687,Executive,Chief Technology Officer,16029000.0,2022-09-29,Full-Time,Abuja,Active,2026-02-23 10:54:51.458849
+49eac2f0-7e4e-450f-9b47-46f89fa57a5d,EMP-0006,Janet,Quadri,janet.quadri@infrest.com,+2348869939831,Executive,Managing Director,19702000.0,2023-12-19,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.458862
+db5795c4-a3ee-482e-986b-bb27fe1a6f84,EMP-0007,Gbenga,Garba,gbenga.garba@infrest.com,+2348225838090,Finance,Accounts Payable Officer,2262000.0,2022-05-20,Full-Time,Lagos,Inactive,2026-02-23 10:54:51.458877
+941bca12-f90a-4004-a85c-792003442bc3,EMP-0008,Musa,Igwe,musa.igwe@infrest.com,+2348194426849,Finance,Finance Manager,8788000.0,2023-07-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.458890
+15407f62-ff85-47c6-83a5-b4962d775fac,EMP-0009,Efe,Victor,efe.victor@infrest.com,+2348448048611,Finance,Accounts Receivable Officer,4795000.0,2023-04-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.458998
+d8ac4794-b742-4182-8d98-3930c190e26c,EMP-0010,Olumide,Chukwu,olumide.chukwu@infrest.com,+2349069717785,Finance,Finance Manager,9487000.0,2020-08-09,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459095
+0e26b1d2-8b1b-4bd8-a9de-dfbcc5d6c82a,EMP-0011,Zainab,Udoh,zainab.udoh@infrest.com,+2348759894713,Finance,Treasury Analyst,4360000.0,2023-06-15,Full-Time,Abuja,Active,2026-02-23 10:54:51.459121
+ae5314a1-5f6f-45dc-b898-9a56a685da93,EMP-0012,Wale,Sanusi,wale.sanusi@infrest.com,+2348215362201,Finance,Senior Accountant,6695000.0,2021-06-09,Full-Time,Lagos,Active,2026-02-23 10:54:51.459136
+877a5c2c-1c04-4e0e-b21a-cef5eda8d97f,EMP-0013,Funke,Eze,funke.eze@infrest.com,+2348793697606,Finance,Accountant,3069000.0,2019-11-13,Full-Time,Lagos,Active,2026-02-23 10:54:51.459152
+b0c1b232-c596-4d15-a02e-8a88bdc299e1,EMP-0014,Ngozi,Balogun,ngozi.balogun@infrest.com,+2349013575047,Finance,Treasury Analyst,4079000.0,2025-06-22,Full-Time,Lagos,Active,2026-02-23 10:54:51.459172
+48b4f51b-78a9-483a-bd66-8342f857c878,EMP-0015,Yemi,Sanusi,yemi.sanusi@infrest.com,+2348234441935,Finance,Senior Accountant,5323000.0,2022-02-23,Full-Time,Lagos,Active,2026-02-23 10:54:51.459191
+edbb45c5-189f-4783-80a1-1d21a949775a,EMP-0016,Aisha,Eze,aisha.eze@infrest.com,+2348686059333,Finance,Accountant,3397000.0,2019-10-28,Full-Time,Lagos,Active,2026-02-23 10:54:51.459202
+ec6961cd-8d1f-40b3-9ca2-8788eedb7a4a,EMP-0017,Janet,Zubairu,janet.zubairu@infrest.com,+2348191072046,Finance,Senior Accountant,6843000.0,2021-08-04,Full-Time,Abuja,Inactive,2026-02-23 10:54:51.459215
+ce63a441-1783-4db1-932a-493de6131114,EMP-0018,Zainab,Udoh,zainab.udoh@infrest.com,+2348963467651,Finance,Treasury Analyst,2887000.0,2021-04-02,Full-Time,Lagos,Active,2026-02-23 10:54:51.459227
+cfc09f15-3619-4d62-b827-b15e76da2559,EMP-0019,Jumoke,Yakubu,jumoke.yakubu@infrest.com,+2348862960855,Finance,Accounts Payable Officer,4701000.0,2019-07-26,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459239
+fa5748e6-3969-42d9-a734-d67d41d569eb,EMP-0020,Grace,Lawal,grace.lawal@infrest.com,+2348824274069,Sales,Sales Director,9958000.0,2024-10-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.459253
+47acf5aa-4994-489f-8401-74b596d8d78d,EMP-0021,Olumide,Adeyemi,olumide.adeyemi@infrest.com,+2348862465941,Sales,Sales Director,11230000.0,2022-12-30,Full-Time,Lagos,Inactive,2026-02-23 10:54:51.459265
+dd83058f-f003-4af8-b701-be17f58458f4,EMP-0022,Janet,Kalu,janet.kalu@infrest.com,+2348857057663,Sales,Sales Analyst,3815000.0,2018-08-18,Full-Time,Lagos,Active,2026-02-23 10:54:51.459278
+3764b56f-3d0a-4565-8979-4fad3b46458a,EMP-0023,Chidi,Lawal,chidi.lawal@infrest.com,+2348398475525,Sales,Sales Director,9708000.0,2021-12-10,Full-Time,Lagos,Active,2026-02-23 10:54:51.459292
+57c3747a-e1e6-4966-842c-1b75432a465b,EMP-0024,Grace,Yakubu,grace.yakubu@infrest.com,+2348208110724,Sales,Account Manager,4411000.0,2021-03-28,Full-Time,Lagos,Active,2026-02-23 10:54:51.459304
+09b4b3c7-5f7d-4c5c-9e3d-a7cb26571da5,EMP-0025,Precious,Taiwo,precious.taiwo@infrest.com,+2348609813089,Sales,Sales Director,8862000.0,2021-05-27,Full-Time,Port Harcourt,Inactive,2026-02-23 10:54:51.459316
+b2c508fa-949c-42d7-b762-55fb6b6c4034,EMP-0026,Chidi,Chukwu,chidi.chukwu@infrest.com,+2348533934217,Sales,Sales Director,10457000.0,2021-01-24,Contract,Lagos,Active,2026-02-23 10:54:51.459332
+30f694cb-7102-4630-a4ca-7acdccb754cc,EMP-0027,Olumide,Fashola,olumide.fashola@infrest.com,+2348056066600,Sales,Account Manager,2868000.0,2023-07-03,Full-Time,Abuja,Active,2026-02-23 10:54:51.459344
+39298160-e0b1-4374-b99c-417eb5ad876d,EMP-0028,Nneka,Yakubu,nneka.yakubu@infrest.com,+2348195406989,Sales,Account Manager,2674000.0,2018-01-11,Full-Time,Lagos,Active,2026-02-23 10:54:51.459357
+0440672d-b5b4-483f-a959-f5433ae934c2,EMP-0029,Vivian,Nnamdi,vivian.nnamdi@infrest.com,+2348311477187,Sales,Sales Manager,6968000.0,2025-03-26,Full-Time,Abuja,Active,2026-02-23 10:54:51.459369
+79d02cd6-dbee-4ae7-bceb-ab82ff6d23c7,EMP-0030,Gbenga,Taiwo,gbenga.taiwo@infrest.com,+2348555327037,Sales,Sales Executive,3162000.0,2024-05-05,Full-Time,Lagos,Active,2026-02-23 10:54:51.459387
+a3dc6d64-2521-4735-8eba-fedb77f76c27,EMP-0031,Kehinde,Yakubu,kehinde.yakubu@infrest.com,+2348741981641,Operations,Operations Manager,4536000.0,2019-10-30,Full-Time,Lagos,Active,2026-02-23 10:54:51.459402
+975e0078-821c-4ac7-8308-f70a0a6fdc87,EMP-0032,Aisha,Fashola,aisha.fashola@infrest.com,+2348816972425,Operations,Operations Manager,2818000.0,2022-09-15,Full-Time,Abuja,Active,2026-02-23 10:54:51.459414
+dfe7b245-4429-4631-a091-df7c518f56b0,EMP-0033,Gbenga,Quadri,gbenga.quadri@infrest.com,+2348972585592,Operations,Operations Analyst,4299000.0,2020-01-21,Full-Time,Abuja,Active,2026-02-23 10:54:51.459427
+9a77a6cf-19e3-4b33-9fbb-d6d9e1705e3d,EMP-0034,Yemi,Chibueze,yemi.chibueze@infrest.com,+2348347082121,Operations,Logistics Coordinator,4480000.0,2021-05-18,Contract,Lagos,Active,2026-02-23 10:54:51.459442
+fd5fdf81-55b1-4f69-8f12-046f3bfd8b77,EMP-0035,Latifah,Adeyemi,latifah.adeyemi@infrest.com,+2348999135255,Operations,Operations Analyst,3555000.0,2022-03-08,Full-Time,Lagos,Active,2026-02-23 10:54:51.459454
+6d6a5675-4856-4e99-b9e1-4f5fef59b838,EMP-0036,Patience,Eze,patience.eze@infrest.com,+2348789818990,Operations,Operations Analyst,4495000.0,2024-04-07,Full-Time,Lagos,Active,2026-02-23 10:54:51.459467
+fc389fa0-930b-4018-8fe9-7b6e8f14271f,EMP-0037,Efe,Okafor,efe.okafor@infrest.com,+2348029044980,Operations,Operations Manager,2350000.0,2019-06-22,Full-Time,Lagos,Active,2026-02-23 10:54:51.459479
+4919ddc8-8997-4c0f-bee4-7fcf33afaffc,EMP-0038,Grace,Dikko,grace.dikko@infrest.com,+2348032989725,Operations,Logistics Coordinator,2517000.0,2021-06-01,Full-Time,Lagos,Active,2026-02-23 10:54:51.459492
+1f024d78-c38e-4783-a344-04db3d2585df,EMP-0039,Wale,Eze,wale.eze@infrest.com,+2348542874387,Operations,Operations Analyst,2391000.0,2018-11-18,Full-Time,Lagos,Active,2026-02-23 10:54:51.459505
+b625cdfd-24a0-4f5a-b441-ed3c8ac1268f,EMP-0040,Emeka,Garba,emeka.garba@infrest.com,+2348651994305,Operations,Operations Manager,2098000.0,2025-05-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.459519
+deb008e5-6615-437a-9371-17b6ede878e1,EMP-0041,Gbenga,Johnson,gbenga.johnson@infrest.com,+2348774446060,Operations,Operations Manager,4264000.0,2019-05-23,Full-Time,Lagos,Active,2026-02-23 10:54:51.459533
+b463578f-babd-4a84-8ce0-3aa9e2a90d68,EMP-0042,Aisha,Adeyemi,aisha.adeyemi@infrest.com,+2348746835728,Operations,Operations Manager,2437000.0,2021-02-10,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459546
+3e057cef-fddd-4b26-825b-4bdf15b4dfc2,EMP-0043,Sade,Quadri,sade.quadri@infrest.com,+2348971234617,Operations,Operations Manager,2297000.0,2024-06-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.459559
+a902f91d-bf50-40ef-b27f-52ea934011df,EMP-0044,Mohammed,Adeyemi,mohammed.adeyemi@infrest.com,+2348648964404,IT,IT Support,2296000.0,2020-05-26,Contract,Lagos,Active,2026-02-23 10:54:51.459572
+96049166-34cc-443f-9619-31e6cad7bfe1,EMP-0045,Grace,Victor,grace.victor@infrest.com,+2348488115080,IT,IT Manager,7904000.0,2021-12-24,Full-Time,Lagos,Active,2026-02-23 10:54:51.459584
+11bcd081-8e1d-40dc-aaca-006a85c4ec9a,EMP-0046,Jumoke,Zubairu,jumoke.zubairu@infrest.com,+2348663280231,IT,Software Developer,3371000.0,2019-03-28,Full-Time,Lagos,Active,2026-02-23 10:54:51.459596
+72ad50be-c1ef-49b6-a8bf-795ddc1b8b51,EMP-0047,Nneka,Yakubu,nneka.yakubu@infrest.com,+2348147455555,IT,IT Manager,7411000.0,2023-07-16,Contract,Lagos,Active,2026-02-23 10:54:51.459615
+a1b8d0bb-5c83-4a28-8749-631b96fca46c,EMP-0048,Grace,Hassan,grace.hassan@infrest.com,+2348242167847,IT,Database Administrator,3222000.0,2022-10-19,Full-Time,Lagos,Active,2026-02-23 10:54:51.459632
+9086ef7d-a5e7-4dc8-b2eb-614655299514,EMP-0049,Ngozi,Adeyemi,ngozi.adeyemi@infrest.com,+2348508349399,IT,IT Support,3475000.0,2019-03-07,Full-Time,Lagos,Active,2026-02-23 10:54:51.459646
+f4675ba3-f087-4281-b69d-adbce3006b06,EMP-0050,Latifah,Madu,latifah.madu@infrest.com,+2348943830705,IT,System Administrator,4085000.0,2019-02-21,Full-Time,Lagos,Active,2026-02-23 10:54:51.459665
+a1c5850c-1d05-4251-b6e4-fd55662f8895,EMP-0051,Olumide,Taiwo,olumide.taiwo@infrest.com,+2348929373678,IT,System Administrator,2368000.0,2022-10-06,Contract,Port Harcourt,Active,2026-02-23 10:54:51.459685
+441a5187-a4d2-43c1-a32b-6f4df4d1e51e,EMP-0052,Uche,Zubairu,uche.zubairu@infrest.com,+2348607785437,IT,IT Support,4830000.0,2021-12-29,Full-Time,Lagos,Inactive,2026-02-23 10:54:51.459698
+182d5d7c-f5ea-4353-a6be-af62cc5a9387,EMP-0053,Latifah,Zubairu,latifah.zubairu@infrest.com,+2348629342869,IT,System Administrator,2324000.0,2020-10-23,Full-Time,Lagos,Active,2026-02-23 10:54:51.459710
+13f74086-e15f-479b-aa48-73d5d60e788b,EMP-0054,Funke,Balogun,funke.balogun@infrest.com,+2348227419516,HR,HR Manager,6993000.0,2018-04-20,Full-Time,Lagos,Active,2026-02-23 10:54:51.459727
+e94359ce-c9e0-4942-af64-a6658207f759,EMP-0055,Wale,Taiwo,wale.taiwo@infrest.com,+2348969723295,HR,HR Manager,8041000.0,2025-05-31,Full-Time,Lagos,Active,2026-02-23 10:54:51.459739
+b8ec9f4f-63bf-4feb-b095-a025fd0e0dde,EMP-0056,Vivian,Victor,vivian.victor@infrest.com,+2348696764913,HR,Payroll Officer,3471000.0,2020-12-07,Full-Time,Abuja,Active,2026-02-23 10:54:51.459751
+a3d9075f-97de-4d4f-a4da-b5d40d3173c9,EMP-0057,Chioma,Zubairu,chioma.zubairu@infrest.com,+2348498551685,HR,HR Manager,8963000.0,2019-05-03,Full-Time,Abuja,Active,2026-02-23 10:54:51.459762
+6c9f29c5-5d5b-4a5d-afd0-14ab8be91abf,EMP-0058,Hassan,Bakare,hassan.bakare@infrest.com,+2348996084244,HR,HR Manager,5707000.0,2025-05-24,Full-Time,Abuja,Active,2026-02-23 10:54:51.459775
+2a220a53-4c79-4db1-87c1-80ad25938711,EMP-0059,Femi,Eze,femi.eze@infrest.com,+2348972835125,HR,Recruitment Specialist,4147000.0,2023-06-20,Full-Time,Abuja,Active,2026-02-23 10:54:51.459787
+61d91d7a-7705-4c5f-aa40-f5042a98b2fb,EMP-0060,Mohammed,Sanusi,mohammed.sanusi@infrest.com,+2348641935113,HR,Payroll Officer,3428000.0,2019-10-03,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459799
+3c669018-1bf6-405a-b165-f26eac71c967,EMP-0061,Chidi,Taiwo,chidi.taiwo@infrest.com,+2348412030523,HR,Recruitment Specialist,4299000.0,2021-03-11,Full-Time,Lagos,Active,2026-02-23 10:54:51.459811
+4abc59f0-b600-4ba4-8c62-552f43ab38c7,EMP-0062,Bola,Lawal,bola.lawal@infrest.com,+2348437384961,HR,HR Manager,8061000.0,2025-01-04,Full-Time,Lagos,Active,2026-02-23 10:54:51.459826
+14afa235-901f-4e4d-95bf-a99a463cc548,EMP-0063,Aisha,Bakare,aisha.bakare@infrest.com,+2348392425085,Procurement,Procurement Officer,2743000.0,2025-04-08,Full-Time,Lagos,Active,2026-02-23 10:54:51.459839
+b3c42a73-814d-4e7c-aa65-82a3abcb77a0,EMP-0064,Jumoke,Kalu,jumoke.kalu@infrest.com,+2348048732776,Procurement,Procurement Officer,2059000.0,2021-08-28,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459851
+288a1981-186a-44c0-963d-fe87d0d3e1c4,EMP-0065,Kehinde,Dikko,kehinde.dikko@infrest.com,+2348751373065,Procurement,Vendor Manager,2800000.0,2023-04-08,Full-Time,Port Harcourt,Inactive,2026-02-23 10:54:51.459863
+059f7d32-2a53-4066-a6c0-e6010bdd4aed,EMP-0066,Chidi,Kalu,chidi.kalu@infrest.com,+2348884454568,Procurement,Procurement Manager,7425000.0,2019-02-14,Full-Time,Lagos,Active,2026-02-23 10:54:51.459878
+05216a4c-95d5-4db6-9892-7301309dcd5a,EMP-0067,Musa,Taiwo,musa.taiwo@infrest.com,+2348259337466,Procurement,Buyer,3090000.0,2022-11-21,Full-Time,Abuja,Active,2026-02-23 10:54:51.459889
+951a886e-c227-4138-8a05-2fef2f24c2d2,EMP-0068,Patience,Johnson,patience.johnson@infrest.com,+2348514789737,Procurement,Buyer,2143000.0,2024-06-07,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459903
+d8dfd797-40f5-4acd-a4ca-3d9473f31861,EMP-0069,Ibrahim,Sanusi,ibrahim.sanusi@infrest.com,+2349029909769,Procurement,Buyer,2820000.0,2024-05-09,Full-Time,Lagos,Active,2026-02-23 10:54:51.459918
+15ead9a4-1514-487c-a373-e8d5b4cf7209,EMP-0070,Gbenga,Udoh,gbenga.udoh@infrest.com,+2348556257190,Procurement,Buyer,3514000.0,2021-05-13,Full-Time,Lagos,Active,2026-02-23 10:54:51.459930
+47f251d8-2fd2-435e-b6ef-d85872ec57cc,EMP-0071,Ruth,Quadri,ruth.quadri@infrest.com,+2348231312111,Procurement,Vendor Manager,4015000.0,2024-02-21,Full-Time,Lagos,Active,2026-02-23 10:54:51.459942
+fe54ebbb-2c0c-4009-a811-ee089e7dec77,EMP-0072,Olu,Peters,olu.peters@infrest.com,+2348349937547,Procurement,Procurement Officer,3982000.0,2023-03-30,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459954
+5ce9980c-4e5c-498b-bf4a-d91ca3bc9b05,EMP-0073,Funke,Quadri,funke.quadri@infrest.com,+2348303524512,Procurement,Procurement Officer,3093000.0,2019-08-29,Full-Time,Lagos,Active,2026-02-23 10:54:51.459966
+8b098815-6d19-4b98-989d-5cd3d0ca32c8,EMP-0074,Efe,Kalu,efe.kalu@infrest.com,+2348345815809,Procurement,Procurement Manager,6902000.0,2022-08-17,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.459980
+a0e71fca-efa2-4ff9-a479-a407d413a74b,EMP-0075,Sade,Madu,sade.madu@infrest.com,+2348035120259,Procurement,Procurement Officer,2341000.0,2020-02-26,Full-Time,Abuja,Active,2026-02-23 10:54:51.459992
+38204481-3349-45c6-9db0-0acb86b8299e,EMP-0076,Janet,Rufai,janet.rufai@infrest.com,+2348253673591,Procurement,Vendor Manager,3266000.0,2018-06-01,Full-Time,Lagos,Active,2026-02-23 10:54:51.460003
+49fc2842-fddd-44bb-90be-b4db9a0bac48,EMP-0077,Uche,Victor,uche.victor@infrest.com,+2348929151075,Engineering,Senior Engineer,3933000.0,2018-06-22,Full-Time,Lagos,Active,2026-02-23 10:54:51.460040
+7b36f4d5-f017-4523-af22-d6ce2a58ddad,EMP-0078,Yemi,Taiwo,yemi.taiwo@infrest.com,+2348462515088,Engineering,Engineer,4602000.0,2022-07-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.460053
+19dab2b4-bf6e-43e2-bcdb-376c8d8fd83a,EMP-0079,Jumoke,Sanusi,jumoke.sanusi@infrest.com,+2348999812402,Engineering,Engineering Manager,9088000.0,2024-07-05,Full-Time,Lagos,Active,2026-02-23 10:54:51.460065
+28cb13d0-4c3a-4891-8517-b2200fe8c0c0,EMP-0080,Quadri,Danjuma,quadri.danjuma@infrest.com,+2348947542286,Engineering,Engineer,2988000.0,2024-07-21,Full-Time,Lagos,Active,2026-02-23 10:54:51.460078
+be8b92fe-3b10-49ea-9287-1f95a46814ea,EMP-0081,Patience,Eze,patience.eze@infrest.com,+2348567851404,Engineering,Engineering Manager,7701000.0,2021-01-29,Contract,Lagos,Active,2026-02-23 10:54:51.460090
+cedf4efe-8ee6-44f7-a395-15c179414c14,EMP-0082,Janet,Rufai,janet.rufai@infrest.com,+2348408109870,Engineering,Engineer,4099000.0,2019-04-08,Full-Time,Lagos,Active,2026-02-23 10:54:51.460102
+d4e41eef-dd8a-4561-8426-35acee4f9fad,EMP-0083,Latifah,Lawal,latifah.lawal@infrest.com,+2348021584005,Engineering,Technician,4147000.0,2021-06-16,Full-Time,Lagos,Active,2026-02-23 10:54:51.460117
+1561326f-1d26-4dfb-a412-086919c9419d,EMP-0084,Tunde,Rufai,tunde.rufai@infrest.com,+2349033047722,Engineering,Technician,2928000.0,2022-01-26,Full-Time,Abuja,Active,2026-02-23 10:54:51.460131
+47d8e6ba-9273-4e97-870d-a5c4b3ae6bbd,EMP-0085,Chidi,Adeyemi,chidi.adeyemi@infrest.com,+2348382514149,Engineering,Technician,4783000.0,2020-11-12,Full-Time,Lagos,Inactive,2026-02-23 10:54:51.460143
+bc3fd319-3ae4-4f1e-99dc-7bb2b1d37cd9,EMP-0086,Patience,Chibueze,patience.chibueze@infrest.com,+2348407816395,Engineering,Senior Engineer,4748000.0,2025-01-30,Full-Time,Lagos,Active,2026-02-23 10:54:51.460156
+55a9c4c7-f5fe-42bd-82b7-7ca9b036f8bf,EMP-0087,Janet,Peters,janet.peters@infrest.com,+2348918086125,Engineering,Technician,4779000.0,2021-09-24,Full-Time,Lagos,Active,2026-02-23 10:54:51.460168
+761b9383-a22e-429c-b7fa-cba143af59ba,EMP-0088,Tunde,Quadri,tunde.quadri@infrest.com,+2348936482263,Engineering,Engineering Manager,8407000.0,2024-10-02,Full-Time,Lagos,Active,2026-02-23 10:54:51.460188
+c0da24ec-7e26-4d2a-8b74-3f7c3ba80dc5,EMP-0089,Ngozi,Udoh,ngozi.udoh@infrest.com,+2348007721990,Engineering,Technician,4373000.0,2019-07-12,Full-Time,Lagos,Active,2026-02-23 10:54:51.460201
+fe7f7935-e1a2-4e48-a5f0-c9e4cd230a07,EMP-0090,Olu,Chukwu,olu.chukwu@infrest.com,+2348913182597,Engineering,Engineering Manager,7631000.0,2023-10-17,Full-Time,Lagos,Active,2026-02-23 10:54:51.460214
+2a5e54e7-d51b-49cc-8c8f-76c8a212fce0,EMP-0091,Grace,Peters,grace.peters@infrest.com,+2349056495887,Engineering,Senior Engineer,2782000.0,2024-08-26,Full-Time,Lagos,Active,2026-02-23 10:54:51.460229
+0301d27b-3b23-40d2-816d-59fda9b9bed3,EMP-0092,Efe,Lawal,efe.lawal@infrest.com,+2349064766269,Engineering,Senior Engineer,3180000.0,2022-03-26,Full-Time,Abuja,Active,2026-02-23 10:54:51.460245
+e025cf83-1169-4cf0-a84c-f838f6987536,EMP-0093,Ruth,Udoh,ruth.udoh@infrest.com,+2348255391992,Engineering,Senior Engineer,4721000.0,2023-03-10,Full-Time,Lagos,Active,2026-02-23 10:54:51.460261
+ff57854e-5869-4d57-a3cc-507538ef6f24,EMP-0094,Dayo,Taiwo,dayo.taiwo@infrest.com,+2348117172675,Engineering,Technician,3801000.0,2019-09-04,Contract,Lagos,Active,2026-02-23 10:54:51.460275
+a0907a8d-bbd3-4029-8b63-18b3ff63432c,EMP-0095,Adebayo,Williams,adebayo.williams@infrest.com,+2349059290445,Engineering,Technician,4320000.0,2023-02-02,Full-Time,Lagos,Active,2026-02-23 10:54:51.460287
+1b995d09-0776-4717-ba72-c9585f7c675b,EMP-0096,Uche,Johnson,uche.johnson@infrest.com,+2349094466272,Engineering,Technician,3146000.0,2022-11-02,Full-Time,Lagos,Active,2026-02-23 10:54:51.460300
+66dfa22d-9ac6-4646-b380-b10d730619c6,EMP-0097,Ngozi,Nnamdi,ngozi.nnamdi@infrest.com,+2348308566133,Marketing,Digital Marketing Specialist,2086000.0,2020-12-08,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.460314
+6f46bc71-a97e-4989-9ec1-f114399219d1,EMP-0098,Hassan,Chukwu,hassan.chukwu@infrest.com,+2348887669861,Marketing,Marketing Manager,6407000.0,2021-08-17,Full-Time,Lagos,Active,2026-02-23 10:54:51.460326
+d5d19a53-f0eb-4480-a58c-2924460368da,EMP-0099,Quadri,Igwe,quadri.igwe@infrest.com,+2348066584506,Marketing,Marketing Manager,5286000.0,2018-08-29,Full-Time,Lagos,Inactive,2026-02-23 10:54:51.460348
+04539a60-7c26-4abb-8a12-368f57142cb7,EMP-0100,Quadri,Victor,quadri.victor@infrest.com,+2348797391073,Marketing,Marketing Manager,5016000.0,2023-08-29,Full-Time,Lagos,Active,2026-02-23 10:54:51.460360
+311c93e6-cbbe-44cc-ab78-18ec527f6743,EMP-0101,Kunle,Dikko,kunle.dikko@infrest.com,+2348219451467,Marketing,Marketing Manager,6741000.0,2020-12-02,Full-Time,Abuja,Active,2026-02-23 10:54:51.460372
+ddc65744-dc42-45e0-87a6-e0a7954b2ab1,EMP-0102,Kunle,Chukwu,kunle.chukwu@infrest.com,+2348185368887,Marketing,Content Manager,4131000.0,2022-11-09,Full-Time,Lagos,Active,2026-02-23 10:54:51.460391
+e17e28aa-8f76-404b-9504-67aacbc32332,EMP-0103,Janet,Chibueze,janet.chibueze@infrest.com,+2348365416038,Marketing,Content Manager,4243000.0,2022-10-28,Full-Time,Abuja,Active,2026-02-23 10:54:51.460402
+b8de5a6c-44c0-49f6-bdbd-365c949577ba,EMP-0104,Yemi,Nnamdi,yemi.nnamdi@infrest.com,+2348973537801,Marketing,Digital Marketing Specialist,2947000.0,2023-07-06,Full-Time,Lagos,Active,2026-02-23 10:54:51.460415
+1978e8ba-f74b-4dd7-a07f-9a02c99f5c62,EMP-0105,Olumide,Eze,olumide.eze@infrest.com,+2348605365833,Marketing,Marketing Manager,5690000.0,2018-05-27,Full-Time,Lagos,Active,2026-02-23 10:54:51.460427
+ad9a51d1-16f4-47bc-a4ce-ce1bc670a73d,EMP-0106,Jumoke,Dikko,jumoke.dikko@infrest.com,+2348909140297,Marketing,Brand Executive,2122000.0,2021-12-31,Full-Time,Lagos,Active,2026-02-23 10:54:51.460439
+af9f5d06-e6c3-4859-8282-8e664f6ebae9,EMP-0107,Jumoke,Lawal,jumoke.lawal@infrest.com,+2348233823521,Marketing,Marketing Manager,5611000.0,2021-03-09,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.460451
+e0ac1ea6-2139-4814-aed7-8e6908734903,EMP-0108,Precious,Garba,precious.garba@infrest.com,+2348237986351,Marketing,Marketing Manager,6578000.0,2024-05-26,Full-Time,Abuja,Inactive,2026-02-23 10:54:51.460466
+579d0881-5786-4f06-ade1-c3d7a87b9b21,EMP-0109,Ibrahim,Dikko,ibrahim.dikko@infrest.com,+2348507267268,Marketing,Content Manager,2078000.0,2019-05-15,Full-Time,Lagos,Active,2026-02-23 10:54:51.460479
+ea584e6f-2059-4546-b2e5-39bf5b6d91f0,EMP-0110,Latifah,Adeyemi,latifah.adeyemi@infrest.com,+2348618617787,Marketing,Marketing Manager,6381000.0,2025-05-25,Full-Time,Port Harcourt,Active,2026-02-23 10:54:51.460491
+2a3d5924-8a1e-4757-a2cc-0868d910a0d5,EMP-0111,Zainab,Bakare,zainab.bakare@infrest.com,+2348413169632,Legal,Compliance Officer,3867000.0,2023-01-30,Full-Time,Lagos,Active,2026-02-23 10:54:51.460505
+87f64f8d-b65f-440e-ad22-dc2e0e26944f,EMP-0112,Yemi,Adeleke,yemi.adeleke@infrest.com,+2348777398678,Legal,Legal Manager,8975000.0,2024-02-20,Full-Time,Lagos,Active,2026-02-23 10:54:51.460517
+ea570582-0c67-488e-b7f1-dde2c1acfedb,EMP-0113,Sade,Zubairu,sade.zubairu@infrest.com,+2348207517997,Legal,Legal Officer,2268000.0,2020-05-02,Full-Time,Lagos,Active,2026-02-23 10:54:51.460529

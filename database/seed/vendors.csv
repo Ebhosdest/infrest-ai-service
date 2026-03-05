@@ -1,0 +1,181 @@
+id,vendor_code,company_name,contact_first_name,contact_last_name,email,phone,city,state,country,category,rating,payment_terms_days,status,currency,created_at
+7c259094-a60a-499e-add2-82f9de402308,VEN-0001,Pinnacle Trading,Ngozi,Fashola,info@pinnacletrading.com.ng,+2347922985251,Benin City,Edo,Nigeria,Logistics,3.5,45,Active,NGN,2024-05-03
+e93b5b44-3e5b-4c8e-9bc0-a92d905eab15,VEN-0002,Pinnacle Solutions,Musa,Udoh,info@pinnaclesolutio.com.ng,+2348051376582,Warri,Lagos,Nigeria,Logistics,2.6,30,Active,NGN,2024-06-10
+a88de2cf-4194-40a5-8fe5-d7509d174618,VEN-0003,Titan Trading,Funke,Fashola,info@titantrading.com.ng,+2347664020528,Abeokuta,Edo,Nigeria,Packaging,4.9,15,Active,NGN,2024-01-22
+10cbeaf1-b9f9-439c-a6c9-f177e2240b07,VEN-0004,Coral Logistics,Ifeanyi,Fashola,info@corallogistics.com.ng,+2347567891524,Warri,Kano,Nigeria,Catering,2.9,30,Inactive,NGN,2024-06-17
+be99ce47-790c-4162-923a-f62b52e4a702,VEN-0005,Heritage Services,Zainab,Emenike,info@heritageservice.com.ng,+2348162154992,Abeokuta,Delta,Nigeria,Logistics,3.4,30,Active,NGN,2024-01-05
+b35bcef7-a9ac-4680-815b-9d677b4f3be9,VEN-0006,Emerald Services,Efe,Balogun,info@emeraldservices.com.ng,+2347382615622,Abuja,Abuja,Nigeria,IT Equipment,3.7,15,Active,NGN,2024-05-08
+0b7bea33-5d84-4cea-99f5-5230d7f6d98a,VEN-0007,Crown Services,Kunle,Dikko,info@crownservices.com.ng,+2348541020136,Warri,Oyo,Nigeria,Maintenance,3.8,45,Active,NGN,2024-06-27
+4183051f-2389-4a7a-8cfb-0522b171e130,VEN-0008,Sterling Industries,Ifeanyi,Adeleke,info@sterlingindustr.com.ng,+2348967396087,Kano,Edo,Nigeria,Utilities,4.0,15,Active,NGN,2024-02-04
+77c04c4f-fbbf-4086-ac26-53e502240944,VEN-0009,Sterling Industries,Halima,Johnson,info@sterlingindustr.com.ng,+2348537855954,Abuja,Delta,Nigeria,Professional Services,3.0,15,Inactive,NGN,2024-05-13
+8db60204-783f-41d2-ab72-5f5e58c3d740,VEN-0010,Zenith Logistics,Patience,Williams,info@zenithlogistics.com.ng,+2349056299951,Onitsha,Kano,Nigeria,Maintenance,3.4,30,Active,NGN,2024-06-15
+238201f5-21d8-4353-8481-800f964650af,VEN-0011,Vanguard Industries,Mohammed,Nnamdi,info@vanguardindustr.com.ng,+2348447134489,Warri,Delta,Nigeria,Catering,3.2,60,Active,NGN,2024-04-15
+2d180ac9-7d5e-4483-bab9-0c8571bf1357,VEN-0012,Crown Trading,Bola,Rufai,info@crowntrading.com.ng,+2348429116148,Abuja,Ogun,Nigeria,Professional Services,5.0,45,Active,NGN,2024-02-05
+b55f6d95-eaaf-4c75-9e0a-c2c0769048af,VEN-0013,Alpha Industries,Musa,Danjuma,info@alphaindustries.com.ng,+2347549528589,Lagos,Abuja,Nigeria,Maintenance,4.5,15,Active,NGN,2024-04-09
+fdc80963-68ef-4349-a847-c73e16c39c58,VEN-0014,Atlantic Logistics,Quadri,Nnamdi,info@atlanticlogisti.com.ng,+2347222075091,Ibadan,Oyo,Nigeria,Professional Services,3.1,15,Inactive,NGN,2024-01-10
+9bb23b64-0462-4e16-a045-dc9cf6ab9e96,VEN-0015,Coral Services,Lola,Johnson,info@coralservices.com.ng,+2348821964069,Warri,Kano,Nigeria,IT Equipment,4.1,60,Active,NGN,2024-02-21
+65e7643b-3fce-42f3-8d02-e4a11f08dda8,VEN-0016,Pinnacle Suppliers,Quadri,Quadri,info@pinnaclesupplie.com.ng,+2348324886793,Lagos,Rivers,Nigeria,Catering,2.9,15,Active,NGN,2024-03-02
+d8556314-7372-4af8-b03e-7e70507fd12b,VEN-0017,Global Distributors,Dayo,Lawal,info@globaldistribut.com.ng,+2348717629401,Warri,Kano,Nigeria,Maintenance,4.0,15,Active,NGN,2024-01-24
+8e80bca6-b4c8-48a3-9258-0e412a752775,VEN-0018,Pacific Solutions,Aisha,Lawal,info@pacificsolution.com.ng,+2349085639031,Onitsha,Lagos,Nigeria,Logistics,4.0,30,Active,NGN,2024-04-13
+fdbd4ff1-8cd6-4017-b064-79c39952479f,VEN-0019,Vanguard Trading,Efe,Quadri,info@vanguardtrading.com.ng,+2347272214435,Warri,Anambra,Nigeria,Packaging,3.2,15,Active,NGN,2024-03-06
+4cb7f1f1-a60b-4c38-afbc-2662fc6b4bf0,VEN-0020,Vanguard Services,Grace,Madu,info@vanguardservice.com.ng,+2348449113963,Lagos,Edo,Nigeria,Logistics,4.4,60,Active,NGN,2024-05-30
+e4a2772a-5366-4708-8309-02a2a6933717,VEN-0021,Prime Distributors,Gbenga,Madu,info@primedistributo.com.ng,+2348624697401,Warri,Lagos,Nigeria,Logistics,4.5,60,Active,NGN,2024-05-12
+d784f417-38db-4e63-8c01-ae03b680d6f1,VEN-0022,Vanguard Trading,Vivian,Chukwu,info@vanguardtrading.com.ng,+2348026737688,Kaduna,Ogun,Nigeria,Office Supplies,3.9,30,Active,NGN,2024-03-21
+71213f01-0c96-4e1d-bb71-177a535ad794,VEN-0023,Titan Distributors,Ngozi,Yakubu,info@titandistributo.com.ng,+2348744190481,Abeokuta,Ogun,Nigeria,Construction,4.3,30,Active,NGN,2024-03-08
+8d557f40-602c-4374-96fb-a852fd64ace9,VEN-0024,Pinnacle Industries,Sade,Balogun,info@pinnacleindustr.com.ng,+2348586973148,Benin City,Anambra,Nigeria,IT Equipment,4.4,15,Active,NGN,2024-06-22
+a7610cfe-a349-4e85-801e-8e1fd85cc06e,VEN-0025,Zenith Industries,Mohammed,Bakare,info@zenithindustrie.com.ng,+2348237227644,Warri,Kano,Nigeria,Catering,3.3,45,Active,NGN,2024-02-16
+cb7d989b-b666-420f-87c9-c04cb60c91ab,VEN-0026,Nexus Trading,Olu,Eze,info@nexustrading.com.ng,+2347139820377,Ibadan,Rivers,Nigeria,Maintenance,3.7,15,Active,NGN,2024-03-29
+03d4b21c-ec1c-4373-84d2-625a6a3c7a80,VEN-0027,Alpha Suppliers,Lola,Okafor,info@alphasuppliers.com.ng,+2347801141240,Kaduna,Kaduna,Nigeria,Raw Materials,4.2,60,Inactive,NGN,2024-01-26
+0f114530-b671-47f9-a494-539a9a599ac1,VEN-0028,Coral Industries,Tunde,Fashola,info@coralindustries.com.ng,+2348405409875,Benin City,Oyo,Nigeria,Logistics,3.2,45,Active,NGN,2024-02-17
+f15b5d6c-02a6-499c-8d8c-bfa274df3217,VEN-0029,Pinnacle Logistics,Bola,Lawal,info@pinnaclelogisti.com.ng,+2348025691405,Abeokuta,Abuja,Nigeria,Construction,2.9,30,Inactive,NGN,2024-06-24
+19b8847e-31ea-44df-aae5-010b6f7846c7,VEN-0030,Vanguard Industries,Sade,Rufai,info@vanguardindustr.com.ng,+2348107390162,Port Harcourt,Oyo,Nigeria,Logistics,2.9,30,Active,NGN,2024-01-03
+3ee60be8-07af-417d-81c0-1cc4206c7a4e,VEN-0031,Crown Trading,Lola,Rufai,info@crowntrading.com.ng,+2348846297024,Port Harcourt,Lagos,Nigeria,Construction,3.3,15,Active,NGN,2024-01-26
+704ab9f1-c1ee-426c-ab5f-b2ca1adadff7,VEN-0032,Pinnacle Industries,Tunde,Peters,info@pinnacleindustr.com.ng,+2348612615677,Warri,Delta,Nigeria,Construction,4.4,45,Active,NGN,2024-04-02
+a86c9c87-ae3f-48f0-944a-789d88e1071b,VEN-0033,Vanguard Distributors,Chioma,Nnamdi,info@vanguarddistrib.com.ng,+2347316890320,Kaduna,Delta,Nigeria,Catering,3.0,30,Active,NGN,2024-03-31
+cb787fa9-3460-49a6-b501-852fcc0dc29b,VEN-0034,Crown Industries,Grace,Dikko,info@crownindustries.com.ng,+2347207393310,Kaduna,Oyo,Nigeria,Catering,3.2,30,Active,NGN,2024-06-12
+a88d909b-f598-482b-8203-950b5b7e8e18,VEN-0035,Coral Solutions,Dayo,Chibueze,info@coralsolutions.com.ng,+2347182327277,Kano,Kano,Nigeria,IT Equipment,3.4,45,Active,NGN,2024-06-16
+47f6d027-4cea-4396-952a-72a4e4277007,VEN-0036,Coral Services,Dayo,Igwe,info@coralservices.com.ng,+2348137092894,Port Harcourt,Lagos,Nigeria,Catering,3.8,60,Active,NGN,2024-02-12
+057adf65-781b-41aa-8633-79e1473cf283,VEN-0037,Atlantic Services,Sade,Victor,info@atlanticservice.com.ng,+2347642343263,Benin City,Delta,Nigeria,Logistics,2.9,15,Active,NGN,2024-01-17
+f063efc2-820e-4512-a1b3-920d2d8d0ed9,VEN-0038,Apex Suppliers,Dayo,Quadri,info@apexsuppliers.com.ng,+2348952396723,Ibadan,Kano,Nigeria,Office Supplies,3.2,30,Active,NGN,2024-06-16
+125b57c9-acd1-472f-be74-4b1d1d43d112,VEN-0039,Sterling Trading,Vivian,Okafor,info@sterlingtrading.com.ng,+2348603120836,Kaduna,Kaduna,Nigeria,IT Equipment,3.8,30,Active,NGN,2024-01-09
+10db4700-ebf6-4615-bbde-3a28afdb771e,VEN-0040,Crown Logistics,Mohammed,Emenike,info@crownlogistics.com.ng,+2347698463259,Benin City,Anambra,Nigeria,IT Equipment,4.9,30,Inactive,NGN,2024-06-01
+5d0b76f2-d1b5-4afb-95cc-15f3f48d4095,VEN-0041,Fortis Solutions,Mohammed,Johnson,info@fortissolutions.com.ng,+2347889080774,Kaduna,Oyo,Nigeria,Packaging,3.1,15,Active,NGN,2024-03-19
+bcae7903-bd41-4c87-96d4-f2deb4648146,VEN-0042,Vanguard Trading,Wale,Adeyemi,info@vanguardtrading.com.ng,+2347009779789,Benin City,Edo,Nigeria,IT Equipment,3.4,60,Active,NGN,2024-01-03
+855da3a1-4dd8-4d7b-a2ae-b79e5a5c48e6,VEN-0043,Quantum Suppliers,Femi,Adeleke,info@quantumsupplier.com.ng,+2347744879150,Ibadan,Oyo,Nigeria,Raw Materials,3.9,30,Active,NGN,2024-05-23
+a1a6d6a5-e677-448d-84e5-122b80347e4e,VEN-0044,Sterling Trading,Chidi,Balogun,info@sterlingtrading.com.ng,+2347964700926,Kano,Kano,Nigeria,Professional Services,2.7,30,Active,NGN,2024-06-05
+4ed3f3c1-a9b7-49f0-8b38-f47648d0e53f,VEN-0045,Pacific Industries,Uche,Nnamdi,info@pacificindustri.com.ng,+2347482148634,Benin City,Kano,Nigeria,IT Equipment,2.8,15,Active,NGN,2024-06-07
+94e0d3db-46fc-406c-a9ab-fbb466295afc,VEN-0046,Coral Logistics,Olumide,Kalu,info@corallogistics.com.ng,+2347043552641,Kano,Kano,Nigeria,Raw Materials,4.9,15,Active,NGN,2024-01-27
+7457c46f-7272-4d53-9bd2-a2abc1849d54,VEN-0047,Atlantic Services,Grace,Yakubu,info@atlanticservice.com.ng,+2347024905912,Ibadan,Kano,Nigeria,Office Supplies,2.9,60,Active,NGN,2024-03-28
+a8d95b7d-c9cc-477b-a938-14e1d96bb47b,VEN-0048,Crown Distributors,Hassan,Williams,info@crowndistributo.com.ng,+2349021532460,Ibadan,Abuja,Nigeria,Utilities,2.7,30,Active,NGN,2024-03-09
+1dca5d52-cfcf-47bf-82cc-34566b49f847,VEN-0049,Pacific Logistics,Ngozi,Garba,info@pacificlogistic.com.ng,+2347647401806,Abeokuta,Lagos,Nigeria,Raw Materials,2.8,30,Active,NGN,2024-04-23
+21c53807-e832-4a4d-88b9-333575d7a931,VEN-0050,Pinnacle Logistics,Ibrahim,Quadri,info@pinnaclelogisti.com.ng,+2348704497162,Lagos,Delta,Nigeria,Construction,3.5,45,Active,NGN,2024-02-10
+b2017762-737c-4faa-ad37-3bc7fb3a8f64,VEN-0051,Emerald Suppliers,Tunde,Peters,info@emeraldsupplier.com.ng,+2348636013251,Abeokuta,Oyo,Nigeria,Logistics,3.4,15,Active,NGN,2024-01-29
+7efe8919-1322-4d4e-bf5e-6df9af3910db,VEN-0052,Eagle Suppliers,Musa,Adeleke,info@eaglesuppliers.com.ng,+2347703007387,Benin City,Anambra,Nigeria,Maintenance,4.5,15,Active,NGN,2024-05-28
+67397338-1c4c-4ef4-a5b6-06260be42ca3,VEN-0053,Atlantic Distributors,Halima,Hassan,info@atlanticdistrib.com.ng,+2347409387252,Kaduna,Rivers,Nigeria,Office Supplies,4.2,45,Active,NGN,2024-01-16
+b537702a-513d-4323-8ba6-1c8387f004b5,VEN-0054,Pacific Industries,Ibrahim,Eze,info@pacificindustri.com.ng,+2348244903632,Lagos,Oyo,Nigeria,Utilities,5.0,45,Active,NGN,2024-02-19
+679e2c23-49be-4cca-9bc2-6f4dfcdd2b36,VEN-0055,Summit Services,Kunle,Igwe,info@summitservices.com.ng,+2347109142018,Port Harcourt,Delta,Nigeria,Construction,3.9,60,Active,NGN,2024-05-25
+8cc0fb07-0896-4ceb-afae-acee3e3d7f68,VEN-0056,Summit Distributors,Hassan,Igwe,info@summitdistribut.com.ng,+2348533690116,Warri,Kaduna,Nigeria,Office Supplies,3.8,60,Active,NGN,2024-03-08
+01882270-3ea2-44e0-8f1d-af3a1e3012cb,VEN-0057,Alpha Suppliers,Kehinde,Madu,info@alphasuppliers.com.ng,+2348874112748,Kaduna,Abuja,Nigeria,Raw Materials,4.0,45,Inactive,NGN,2024-03-02
+5f30f40f-34d2-40f2-8e3d-a85399d60056,VEN-0058,Pacific Industries,Chidi,Garba,info@pacificindustri.com.ng,+2348349347489,Kaduna,Abuja,Nigeria,Packaging,2.9,45,Active,NGN,2024-04-14
+2363cb36-49c4-4c99-94cb-42ccab0580b8,VEN-0059,Prime Solutions,Gbenga,Bakare,info@primesolutions.com.ng,+2347333997061,Lagos,Anambra,Nigeria,Raw Materials,3.0,60,Active,NGN,2024-01-26
+b84bc9bf-96f5-4f5d-b409-6c47933112d4,VEN-0060,Nexus Services,Janet,Quadri,info@nexusservices.com.ng,+2348595293936,Benin City,Abuja,Nigeria,Raw Materials,3.4,15,Active,NGN,2024-02-23
+a96b43b0-75cf-43ec-af8f-34a939d4b628,VEN-0061,Alpha Industries,Funke,Lawal,info@alphaindustries.com.ng,+2348427978536,Warri,Lagos,Nigeria,Utilities,4.5,15,Inactive,NGN,2024-03-09
+d1711e26-7ae8-42df-b99c-04f0b4286ff9,VEN-0062,Global Industries,Wale,Chukwu,info@globalindustrie.com.ng,+2347559715516,Abeokuta,Ogun,Nigeria,Office Supplies,2.8,30,Active,NGN,2024-04-08
+422a7caa-d41e-464a-9606-cf7e4697977a,VEN-0063,Emerald Services,Sade,Sanusi,info@emeraldservices.com.ng,+2348604001408,Onitsha,Kaduna,Nigeria,Packaging,4.4,60,Active,NGN,2024-06-12
+0a2b389a-5d9b-4ca8-9016-e40793cb32f3,VEN-0064,Alpha Services,Femi,Dikko,info@alphaservices.com.ng,+2347263798595,Onitsha,Edo,Nigeria,IT Equipment,3.9,45,Active,NGN,2024-05-16
+593ac7ed-b63f-4b1c-9514-7e3ca725cded,VEN-0065,Summit Distributors,Nneka,Kalu,info@summitdistribut.com.ng,+2347957917972,Onitsha,Delta,Nigeria,Maintenance,4.6,45,Inactive,NGN,2024-03-02
+0db57352-3f0b-4052-ae82-b69e0dc5db1b,VEN-0066,Pinnacle Logistics,Nneka,Emenike,info@pinnaclelogisti.com.ng,+2348905262908,Lagos,Kano,Nigeria,Utilities,4.9,60,Active,NGN,2024-01-01
+7d238362-e985-4c1f-b9b5-18f55b8671ae,VEN-0067,Coral Suppliers,Lola,Eze,info@coralsuppliers.com.ng,+2347771110206,Kano,Delta,Nigeria,Professional Services,5.0,30,Active,NGN,2024-01-06
+e14695af-a1d4-4c0e-8949-6021de0e43a8,VEN-0068,Emerald Solutions,Olu,Emenike,info@emeraldsolution.com.ng,+2348463595683,Kano,Kaduna,Nigeria,Office Supplies,2.6,45,Active,NGN,2024-02-05
+ef4372b7-f4d8-4d9e-9ab0-525e7bd48233,VEN-0069,Titan Trading,Rasheed,Igwe,info@titantrading.com.ng,+2349076038238,Benin City,Rivers,Nigeria,Office Supplies,3.9,30,Active,NGN,2024-03-24
+e17a835a-e0d4-498c-a02e-7fcfa73eb0b6,VEN-0070,Crown Industries,Olu,Balogun,info@crownindustries.com.ng,+2347246039762,Kaduna,Kaduna,Nigeria,Raw Materials,4.3,60,Active,NGN,2024-01-15
+6fd68e05-a1e6-4fea-b5f3-673dd6c32aa9,VEN-0071,Fortis Logistics,Jumoke,Chibueze,info@fortislogistics.com.ng,+2348974803691,Warri,Lagos,Nigeria,Catering,4.8,60,Active,NGN,2024-03-19
+004d6b73-e5a7-4227-84a0-944f1aa2e643,VEN-0072,Eagle Solutions,Olu,Eze,info@eaglesolutions.com.ng,+2347839428900,Onitsha,Delta,Nigeria,Logistics,2.9,60,Active,NGN,2024-06-01
+0200754a-8d20-4df9-8e6c-859558b87d00,VEN-0073,Global Trading,Femi,Johnson,info@globaltrading.com.ng,+2349017615632,Lagos,Delta,Nigeria,IT Equipment,2.8,15,Active,NGN,2024-05-26
+c20737cc-c63a-4880-8ad3-31b76a98bb60,VEN-0074,Nexus Distributors,Halima,Madu,info@nexusdistributo.com.ng,+2348288289551,Benin City,Oyo,Nigeria,IT Equipment,4.4,60,Active,NGN,2024-02-20
+4defece5-265e-44c0-82d4-62f559fc7133,VEN-0075,Titan Trading,Nneka,Taiwo,info@titantrading.com.ng,+2348889795418,Onitsha,Abuja,Nigeria,Logistics,3.1,45,Active,NGN,2024-03-23
+61db2be2-4c79-4d43-bc0a-6e89045ebd5f,VEN-0076,Prime Services,Efe,Nnamdi,info@primeservices.com.ng,+2347936843636,Kaduna,Anambra,Nigeria,Logistics,3.3,15,Active,NGN,2024-02-13
+b4c8f4fe-65b1-4b19-b3f5-402b3b291f40,VEN-0077,Alpha Solutions,Latifah,Okafor,info@alphasolutions.com.ng,+2347114917305,Lagos,Ogun,Nigeria,Logistics,4.2,30,Active,NGN,2024-01-29
+949e0d4d-faec-422c-bc3f-eee95c611e0c,VEN-0078,Coral Trading,Vivian,Adeyemi,info@coraltrading.com.ng,+2347872866934,Warri,Ogun,Nigeria,Professional Services,3.6,15,Active,NGN,2024-02-23
+5cc0b0ed-6b6d-4ccb-b7ee-cf106f810020,VEN-0079,Pinnacle Solutions,Lola,Zubairu,info@pinnaclesolutio.com.ng,+2347669103837,Onitsha,Delta,Nigeria,Catering,4.3,30,Active,NGN,2024-04-06
+77d5f616-ec3d-45a1-9811-9adef2274982,VEN-0080,Apex Distributors,Musa,Bakare,info@apexdistributor.com.ng,+2347724367121,Ibadan,Kano,Nigeria,Catering,3.2,60,Active,NGN,2024-01-18
+4d98decf-fcb8-4daf-85bd-7be34f7b1510,VEN-0081,Summit Industries,Ibrahim,Adeyemi,info@summitindustrie.com.ng,+2347747484783,Onitsha,Delta,Nigeria,Logistics,4.9,15,Active,NGN,2024-05-04
+29af25a3-99de-48ab-943f-9c10fba55acc,VEN-0082,Global Trading,Olumide,Quadri,info@globaltrading.com.ng,+2348171360516,Ibadan,Rivers,Nigeria,Raw Materials,3.1,45,Active,NGN,2024-05-05
+50add11d-b254-49f8-906d-5ffdf53b51cb,VEN-0083,Zenith Distributors,Aisha,Lawal,info@zenithdistribut.com.ng,+2348606072192,Kano,Oyo,Nigeria,Logistics,5.0,45,Active,NGN,2024-06-09
+7a1c6b5c-3de4-4959-ba83-a6555d8b2400,VEN-0084,Zenith Solutions,Uche,Hassan,info@zenithsolutions.com.ng,+2347386734220,Onitsha,Ogun,Nigeria,Maintenance,4.1,15,Active,NGN,2024-05-13
+c707ea9a-efa5-424a-99c4-358f9cb38e21,VEN-0085,Fortis Trading,Olu,Eze,info@fortistrading.com.ng,+2348096240913,Port Harcourt,Anambra,Nigeria,Catering,3.3,30,Active,NGN,2024-06-16
+84afa85d-ece8-4906-bfe7-1450aa7f2f9b,VEN-0086,Pacific Services,Olumide,Chibueze,info@pacificservices.com.ng,+2347356184132,Onitsha,Rivers,Nigeria,Packaging,4.8,60,Active,NGN,2024-06-16
+92286704-bc39-416e-b672-1c8c8e175ec9,VEN-0087,Eagle Suppliers,Nneka,Rufai,info@eaglesuppliers.com.ng,+2348842986209,Ibadan,Oyo,Nigeria,IT Equipment,3.3,30,Active,NGN,2024-03-22
+a5fa5fa7-7763-4d90-96c2-462b3a6a2b10,VEN-0088,Quantum Logistics,Uche,Eze,info@quantumlogistic.com.ng,+2348994153002,Kano,Anambra,Nigeria,Office Supplies,2.8,15,Inactive,NGN,2024-06-06
+1b7e2824-b926-4f3f-9136-dbae7da24d23,VEN-0089,Titan Solutions,Rasheed,Taiwo,info@titansolutions.com.ng,+2347594874066,Onitsha,Edo,Nigeria,Raw Materials,3.4,60,Active,NGN,2024-05-08
+be58545f-51fd-49ae-bac3-dc48b6f46160,VEN-0090,Summit Trading,Chidi,Peters,info@summittrading.com.ng,+2348213307080,Kano,Oyo,Nigeria,IT Equipment,3.0,15,Active,NGN,2024-01-04
+e56dea4a-1b41-42ea-b2ee-9611e28e4dee,VEN-0091,Sterling Services,Olumide,Zubairu,info@sterlingservice.com.ng,+2347522109583,Kaduna,Edo,Nigeria,IT Equipment,4.8,60,Inactive,NGN,2024-05-05
+40836869-4aa5-4e36-b477-6638c58b3f69,VEN-0092,Sterling Logistics,Dayo,Zubairu,info@sterlinglogisti.com.ng,+2347107381619,Benin City,Edo,Nigeria,Utilities,3.5,15,Active,NGN,2024-01-28
+fca0132c-3756-437c-a43f-d55d25b5c44b,VEN-0093,Apex Trading,Lola,Rufai,info@apextrading.com.ng,+2348011658532,Benin City,Oyo,Nigeria,Packaging,3.5,15,Active,NGN,2024-03-15
+3c4c86f4-729e-45b0-a6aa-0a3c23adfbc5,VEN-0094,Quantum Industries,Vivian,Okafor,info@quantumindustri.com.ng,+2347428087739,Benin City,Edo,Nigeria,Professional Services,4.0,15,Active,NGN,2024-02-06
+49aa1370-bfe9-4842-8cfd-bf0f8968f907,VEN-0095,Global Services,Kehinde,Danjuma,info@globalservices.com.ng,+2347463270069,Benin City,Anambra,Nigeria,Maintenance,3.5,60,Active,NGN,2024-02-15
+97075e4e-7681-4428-a37f-250af6870013,VEN-0096,Pinnacle Logistics,Halima,Igwe,info@pinnaclelogisti.com.ng,+2347823751363,Warri,Oyo,Nigeria,Office Supplies,2.7,60,Active,NGN,2024-01-22
+9286f0a4-c019-4261-97d4-b86375e0de41,VEN-0097,Emerald Solutions,Musa,Madu,info@emeraldsolution.com.ng,+2348407385526,Port Harcourt,Rivers,Nigeria,Raw Materials,4.4,45,Inactive,NGN,2024-06-17
+de383ccf-3739-4e31-82cb-57dd040a46d6,VEN-0098,Atlantic Trading,Funke,Nnamdi,info@atlantictrading.com.ng,+2347786192855,Abeokuta,Lagos,Nigeria,Construction,3.2,30,Active,NGN,2024-02-03
+165b7a73-1b21-4823-86e9-6aaa4972c907,VEN-0099,Coral Industries,Tunde,Adeyemi,info@coralindustries.com.ng,+2348179348805,Abeokuta,Ogun,Nigeria,Construction,3.9,15,Inactive,NGN,2024-05-06
+904534af-3e8a-4fd9-a58b-b67855656402,VEN-0100,Titan Services,Ifeanyi,Okafor,info@titanservices.com.ng,+2348048413438,Kano,Anambra,Nigeria,Office Supplies,4.0,15,Active,NGN,2024-05-20
+27382223-42e4-4976-b9af-96558339445e,VEN-0101,Pacific Industries,Patience,Bakare,info@pacificindustri.com.ng,+2347473487325,Onitsha,Anambra,Nigeria,Raw Materials,4.1,15,Active,NGN,2024-01-09
+cb086d8c-420c-4715-ac6b-a1fab326ca98,VEN-0102,Quantum Distributors,Halima,Bakare,info@quantumdistribu.com.ng,+2347277995376,Onitsha,Anambra,Nigeria,IT Equipment,2.9,45,Inactive,NGN,2024-06-18
+d029a725-a1c0-4060-8f58-c4b2dc5bde0c,VEN-0103,Pacific Trading,Hassan,Yakubu,info@pacifictrading.com.ng,+2348487042962,Ibadan,Abuja,Nigeria,Raw Materials,2.7,45,Active,NGN,2024-04-04
+9e6faa89-dd7d-4795-bcfc-0afa70eb42e9,VEN-0104,Fortis Industries,Nneka,Chukwu,info@fortisindustrie.com.ng,+2347748898995,Ibadan,Delta,Nigeria,IT Equipment,2.8,45,Active,NGN,2024-05-14
+1108c7d4-9dc9-4d56-b083-10c09b9225b9,VEN-0105,Pinnacle Services,Patience,Taiwo,info@pinnacleservice.com.ng,+2347142833787,Onitsha,Kano,Nigeria,Catering,4.3,15,Active,NGN,2024-06-25
+95afdeab-72b8-46da-b3a5-f7b7eff5e40c,VEN-0106,Fortis Solutions,Yemi,Igwe,info@fortissolutions.com.ng,+2348346936673,Benin City,Edo,Nigeria,IT Equipment,4.0,60,Active,NGN,2024-06-10
+fc655984-173d-4afe-a37a-042896396037,VEN-0107,Heritage Solutions,Rasheed,Williams,info@heritagesolutio.com.ng,+2347744247321,Onitsha,Oyo,Nigeria,Raw Materials,2.8,60,Active,NGN,2024-02-23
+0bdac6ae-f307-4fca-8643-4c89dd4e6303,VEN-0108,Fortis Suppliers,Zainab,Lawal,info@fortissuppliers.com.ng,+2348434562439,Kano,Kano,Nigeria,Raw Materials,4.1,45,Active,NGN,2024-01-18
+bd9aecea-d1b7-4d28-bce5-fa42bcb82b3a,VEN-0109,Emerald Solutions,Yemi,Zubairu,info@emeraldsolution.com.ng,+2347012909863,Kaduna,Kaduna,Nigeria,Utilities,3.4,15,Active,NGN,2024-02-19
+db0bed53-8609-456e-8ac2-12e5f2f4b3cd,VEN-0110,Crown Logistics,Emeka,Udoh,info@crownlogistics.com.ng,+2347349078154,Lagos,Delta,Nigeria,IT Equipment,4.1,45,Active,NGN,2024-04-15
+b116b91f-20b3-4576-b5d9-70d9ed06e5f5,VEN-0111,Quantum Solutions,Yemi,Rufai,info@quantumsolution.com.ng,+2348371314043,Port Harcourt,Kano,Nigeria,Logistics,3.9,45,Active,NGN,2024-01-17
+80433d1e-b537-4242-87de-f81a82150cdf,VEN-0112,Zenith Distributors,Chidi,Udoh,info@zenithdistribut.com.ng,+2348363784505,Kano,Kaduna,Nigeria,Catering,4.0,30,Inactive,NGN,2024-01-30
+a9f3205a-7316-42bb-8d88-c3f8bccb5be7,VEN-0113,Apex Distributors,Efe,Chukwu,info@apexdistributor.com.ng,+2348274986975,Kano,Rivers,Nigeria,Utilities,3.6,45,Active,NGN,2024-05-14
+064a5c8f-4a46-421e-ae90-af423c1cceba,VEN-0114,Prime Distributors,Emeka,Zubairu,info@primedistributo.com.ng,+2347512553639,Abeokuta,Kaduna,Nigeria,Construction,3.8,60,Active,NGN,2024-02-09
+f38f9485-f109-4472-a7ad-5667df4dac17,VEN-0115,Crown Services,Lola,Johnson,info@crownservices.com.ng,+2348986491819,Port Harcourt,Ogun,Nigeria,IT Equipment,4.4,15,Active,NGN,2024-06-22
+7c348baf-708d-4af1-8b6f-1d0880709138,VEN-0116,Apex Logistics,Chidi,Williams,info@apexlogistics.com.ng,+2348332943405,Kaduna,Edo,Nigeria,Raw Materials,3.3,15,Inactive,NGN,2024-01-23
+78226f04-e895-43d1-9a6e-583766e5de6f,VEN-0117,Apex Suppliers,Lola,Zubairu,info@apexsuppliers.com.ng,+2348686242557,Abeokuta,Ogun,Nigeria,Raw Materials,3.9,45,Active,NGN,2024-03-23
+770e9b28-9999-4655-9615-85c3b5b319cc,VEN-0118,Quantum Distributors,Mohammed,Kalu,info@quantumdistribu.com.ng,+2348978400692,Lagos,Anambra,Nigeria,Office Supplies,3.2,30,Active,NGN,2024-01-30
+86d0c148-e5cb-4fbf-a3fd-1d45c14d911b,VEN-0119,Pacific Solutions,Ibrahim,Garba,info@pacificsolution.com.ng,+2348386877363,Abeokuta,Rivers,Nigeria,Packaging,3.3,30,Active,NGN,2024-05-26
+c8ed74d1-a67f-4d3b-b50d-0dbcb63b8319,VEN-0120,Global Distributors,Ruth,Dikko,info@globaldistribut.com.ng,+2347868443172,Ibadan,Lagos,Nigeria,Raw Materials,2.8,60,Active,NGN,2024-01-28
+d8b27271-0194-44e9-a208-f3a2711a6d6d,VEN-0121,Global Logistics,Dayo,Fashola,info@globallogistics.com.ng,+2348808479891,Warri,Abuja,Nigeria,Catering,3.4,45,Active,NGN,2024-06-20
+979aeb25-d3e2-45d5-b523-ed659d7601f6,VEN-0122,Alpha Solutions,Kunle,Chukwu,info@alphasolutions.com.ng,+2349088856366,Abeokuta,Rivers,Nigeria,Office Supplies,3.6,60,Active,NGN,2024-02-29
+80c778f0-c34a-4e07-9a1d-6ae24d175243,VEN-0123,Coral Distributors,Bola,Madu,info@coraldistributo.com.ng,+2347466541983,Abuja,Kaduna,Nigeria,Utilities,3.6,15,Active,NGN,2024-05-01
+d46a4b97-d08a-41ae-81f4-81f82bcfaf1b,VEN-0124,Crown Logistics,Musa,Johnson,info@crownlogistics.com.ng,+2348966848796,Kaduna,Delta,Nigeria,Catering,3.9,15,Active,NGN,2024-01-28
+ab91d310-20dd-4de9-8a56-7084a723761d,VEN-0125,Global Industries,Wale,Rufai,info@globalindustrie.com.ng,+2348187724584,Benin City,Oyo,Nigeria,Catering,3.5,30,Active,NGN,2024-02-10
+0854344d-d8ca-4b0c-9f7f-53e172647c68,VEN-0126,Global Distributors,Patience,Balogun,info@globaldistribut.com.ng,+2348778233471,Abeokuta,Rivers,Nigeria,Maintenance,3.9,45,Active,NGN,2024-06-26
+af0b9ced-9e2d-4299-89bb-9c0a14130dc0,VEN-0127,Global Services,Olu,Balogun,info@globalservices.com.ng,+2348242918019,Benin City,Rivers,Nigeria,Catering,4.0,45,Active,NGN,2024-01-25
+adb1307a-96ac-450b-bf90-73005bd9abd6,VEN-0128,Quantum Logistics,Gbenga,Taiwo,info@quantumlogistic.com.ng,+2347277357071,Port Harcourt,Anambra,Nigeria,Utilities,3.7,15,Active,NGN,2024-02-25
+7a98b9d5-56e0-4c96-a30e-eb9c83346964,VEN-0129,Zenith Industries,Latifah,Victor,info@zenithindustrie.com.ng,+2347388599649,Kaduna,Kano,Nigeria,Packaging,3.2,60,Active,NGN,2024-02-22
+8e0ad8ce-858b-434f-b27d-3ac8006755fd,VEN-0130,Titan Industries,Wale,Emenike,info@titanindustries.com.ng,+2348116775801,Lagos,Kaduna,Nigeria,Office Supplies,4.0,60,Active,NGN,2024-03-16
+cdeec4ed-68fa-4b78-bd01-8763c0f49e2a,VEN-0131,Pacific Suppliers,Adebayo,Williams,info@pacificsupplier.com.ng,+2348437027124,Onitsha,Oyo,Nigeria,Office Supplies,4.7,15,Active,NGN,2024-04-20
+28e3efd0-e7b5-489f-b27c-6cda8e50a1d1,VEN-0132,Eagle Services,Chidi,Madu,info@eagleservices.com.ng,+2347978301277,Abeokuta,Delta,Nigeria,Packaging,3.0,30,Active,NGN,2024-02-05
+67e8607a-1bed-4014-8ea7-47bfa8d0612c,VEN-0133,Nexus Industries,Bola,Balogun,info@nexusindustries.com.ng,+2348063588175,Abuja,Lagos,Nigeria,Professional Services,5.0,30,Active,NGN,2024-01-03
+b7050f13-05d4-4b06-8ad3-f326aee06b85,VEN-0134,Atlantic Services,Janet,Victor,info@atlanticservice.com.ng,+2348113277939,Onitsha,Oyo,Nigeria,Office Supplies,2.8,60,Active,NGN,2024-06-27
+4a46b4f6-6f79-4212-9c53-42b5dfcdd335,VEN-0135,Coral Trading,Hassan,Quadri,info@coraltrading.com.ng,+2348088550515,Lagos,Anambra,Nigeria,Maintenance,3.4,30,Active,NGN,2024-06-03
+0093345f-e7b4-4824-89c0-4c17390c36a2,VEN-0136,Crown Industries,Sade,Williams,info@crownindustries.com.ng,+2348285517272,Onitsha,Edo,Nigeria,Maintenance,4.8,45,Active,NGN,2024-01-10
+17329ca3-76fc-4a0d-b252-8df2d80fea2b,VEN-0137,Summit Suppliers,Precious,Peters,info@summitsuppliers.com.ng,+2348762343236,Abuja,Delta,Nigeria,IT Equipment,4.3,45,Active,NGN,2024-05-12
+316ed8e3-8b2d-44b9-a291-d4469d977631,VEN-0138,Coral Suppliers,Sade,Peters,info@coralsuppliers.com.ng,+2348612309997,Kaduna,Delta,Nigeria,Packaging,4.5,45,Inactive,NGN,2024-01-14
+5ddeb406-253a-493e-be05-73e4ed6e5709,VEN-0139,Zenith Logistics,Hassan,Quadri,info@zenithlogistics.com.ng,+2348206561881,Lagos,Anambra,Nigeria,Maintenance,3.4,45,Active,NGN,2024-02-12
+1b05f668-c7e3-4a27-bf65-b4f3d40a41cb,VEN-0140,Quantum Services,Olu,Igwe,info@quantumservices.com.ng,+2347158938316,Lagos,Kano,Nigeria,Catering,2.9,15,Active,NGN,2024-06-08
+e22bd05a-311c-4f1f-94ed-5a7dd08738bd,VEN-0141,Crown Suppliers,Kunle,Quadri,info@crownsuppliers.com.ng,+2347195661529,Lagos,Abuja,Nigeria,Professional Services,2.8,45,Active,NGN,2024-03-06
+50625d74-d34f-419b-b6cd-aeb02279621b,VEN-0142,Coral Trading,Precious,Yakubu,info@coraltrading.com.ng,+2347388493596,Port Harcourt,Delta,Nigeria,Utilities,4.5,45,Active,NGN,2024-05-04
+f949a0cf-fe2e-467f-a66e-29386b52057e,VEN-0143,Apex Distributors,Halima,Eze,info@apexdistributor.com.ng,+2348523586212,Benin City,Rivers,Nigeria,Construction,4.4,60,Active,NGN,2024-03-01
+a85e7fb3-388e-41b9-95f0-cc0add7d711b,VEN-0144,Pinnacle Solutions,Aisha,Bakare,info@pinnaclesolutio.com.ng,+2348645435820,Kano,Edo,Nigeria,Office Supplies,2.6,60,Active,NGN,2024-05-01
+4f87e6dc-c39d-484f-a7c2-87b9000cd11c,VEN-0145,Pacific Trading,Chidi,Victor,info@pacifictrading.com.ng,+2348807544296,Benin City,Oyo,Nigeria,Construction,3.2,60,Active,NGN,2024-03-14
+92d249d4-6af8-4400-9bdd-f0689b85ce6c,VEN-0146,Eagle Solutions,Emeka,Danjuma,info@eaglesolutions.com.ng,+2348366936250,Kano,Abuja,Nigeria,Maintenance,4.0,45,Active,NGN,2024-03-10
+5d28d991-af20-4a95-ac85-1382f138012f,VEN-0147,Vanguard Services,Precious,Madu,info@vanguardservice.com.ng,+2348185056679,Warri,Lagos,Nigeria,Catering,4.4,45,Active,NGN,2024-03-21
+4724900c-254d-4f31-8cc7-1dab420bb4eb,VEN-0148,Zenith Industries,Gbenga,Adeyemi,info@zenithindustrie.com.ng,+2348052639113,Kano,Kano,Nigeria,Packaging,2.8,60,Active,NGN,2024-02-26
+b9b8b60f-dead-41ac-b704-7d4c3baf4ead,VEN-0149,Pinnacle Suppliers,Chioma,Taiwo,info@pinnaclesupplie.com.ng,+2347231954320,Abuja,Abuja,Nigeria,Catering,4.1,30,Inactive,NGN,2024-06-12
+14152142-ccf0-465b-a7eb-71ebb96d3d53,VEN-0150,Global Industries,Quadri,Eze,info@globalindustrie.com.ng,+2347964099902,Abuja,Edo,Nigeria,Office Supplies,4.2,45,Active,NGN,2024-04-29
+911b8562-98e4-4368-b00c-d22273eaf319,VEN-0151,Vanguard Industries,Femi,Williams,info@vanguardindustr.com.ng,+2348706425820,Ibadan,Oyo,Nigeria,Professional Services,2.9,15,Active,NGN,2024-01-16
+ae41cd2f-2b37-4235-98fe-3fa814d6bae8,VEN-0152,Eagle Suppliers,Tunde,Balogun,info@eaglesuppliers.com.ng,+2347673985161,Port Harcourt,Edo,Nigeria,Construction,2.7,30,Inactive,NGN,2024-04-10
+770d743b-1489-4535-8300-5334856ea83a,VEN-0153,Prime Trading,Mohammed,Zubairu,info@primetrading.com.ng,+2348104663917,Lagos,Abuja,Nigeria,Catering,4.1,60,Active,NGN,2024-01-27
+38b7a755-4c83-4ff6-82c8-0374f94786b6,VEN-0154,Global Solutions,Tunde,Zubairu,info@globalsolutions.com.ng,+2348141314820,Ibadan,Kano,Nigeria,Construction,2.9,15,Active,NGN,2024-06-19
+0fe30b33-bbde-4754-974e-9139d830eda4,VEN-0155,Atlantic Services,Zainab,Dikko,info@atlanticservice.com.ng,+2348001062138,Ibadan,Abuja,Nigeria,Packaging,4.3,60,Active,NGN,2024-04-21
+f6d05d41-f086-4fcf-b987-a1ec3ff68550,VEN-0156,Pacific Trading,Adebayo,Madu,info@pacifictrading.com.ng,+2348769087731,Kano,Oyo,Nigeria,Office Supplies,3.9,45,Active,NGN,2024-06-23
+2f71895f-4b18-43d5-93de-670d971a51bd,VEN-0157,Apex Services,Halima,Lawal,info@apexservices.com.ng,+2348366705306,Warri,Lagos,Nigeria,Office Supplies,4.6,45,Active,NGN,2024-02-15
+325fbd4e-d494-429c-b82d-309ece65a031,VEN-0158,Nexus Services,Olumide,Johnson,info@nexusservices.com.ng,+2348787544871,Benin City,Ogun,Nigeria,Office Supplies,4.1,45,Active,NGN,2024-01-22
+83c81921-274b-48d4-b872-066fe01ea8b2,VEN-0159,Atlantic Suppliers,Olumide,Adeyemi,info@atlanticsupplie.com.ng,+2348845001116,Benin City,Lagos,Nigeria,Construction,3.5,45,Active,NGN,2024-05-16
+af1ef7f2-e507-480f-a626-a1efed2d8660,VEN-0160,Apex Distributors,Funke,Kalu,info@apexdistributor.com.ng,+2349011718308,Onitsha,Ogun,Nigeria,Maintenance,2.8,60,Active,NGN,2024-02-08
+d0bb2ec4-4704-451e-9033-8316299d3096,VEN-0161,Global Suppliers,Latifah,Peters,info@globalsuppliers.com.ng,+2348671319824,Port Harcourt,Lagos,Nigeria,Construction,4.8,15,Active,NGN,2024-06-28
+1d45caf1-8721-4598-a0cc-a3754fbc0b96,VEN-0162,Heritage Services,Funke,Dikko,info@heritageservice.com.ng,+2347782632292,Benin City,Anambra,Nigeria,Construction,4.0,15,Active,NGN,2024-01-30
+52f9904b-a6b6-4f34-91e2-19437e360c35,VEN-0163,Coral Trading,Gbenga,Adeleke,info@coraltrading.com.ng,+2347518150641,Onitsha,Delta,Nigeria,Utilities,4.5,60,Active,NGN,2024-01-31
+ec3e6024-8da2-46ac-92a4-cafe01c49d05,VEN-0164,Atlantic Distributors,Patience,Zubairu,info@atlanticdistrib.com.ng,+2347113909968,Port Harcourt,Kaduna,Nigeria,Utilities,2.7,45,Active,NGN,2024-04-16
+6fd5a87d-cd0d-4652-836a-2577c67b8164,VEN-0165,Pacific Trading,Grace,Hassan,info@pacifictrading.com.ng,+2348481682814,Benin City,Abuja,Nigeria,IT Equipment,2.7,60,Active,NGN,2024-01-05
+3f987fc4-0166-4c12-90bf-8a1a2d55da98,VEN-0166,Zenith Suppliers,Ngozi,Emenike,info@zenithsuppliers.com.ng,+2347225760225,Port Harcourt,Kano,Nigeria,Maintenance,4.2,60,Active,NGN,2024-02-22
+fc7d9a0a-a8f5-46cf-a58a-e163f1c1afe5,VEN-0167,Emerald Logistics,Efe,Hassan,info@emeraldlogistic.com.ng,+2347441631179,Kano,Kaduna,Nigeria,Catering,3.0,60,Inactive,NGN,2024-01-23
+9b2a2950-b51a-4f5c-a103-96eed14a2139,VEN-0168,Fortis Suppliers,Nneka,Hassan,info@fortissuppliers.com.ng,+2347492971454,Abeokuta,Edo,Nigeria,Packaging,4.9,45,Active,NGN,2024-05-09
+f6541db5-9502-41b1-b3eb-47860721414a,VEN-0169,Pinnacle Distributors,Funke,Garba,info@pinnacledistrib.com.ng,+2347283503452,Kaduna,Kano,Nigeria,Construction,3.7,30,Active,NGN,2024-01-14
+501d52c4-6a8b-47d4-8abe-1ce8a7f53a43,VEN-0170,Pinnacle Logistics,Tunde,Kalu,info@pinnaclelogisti.com.ng,+2348578602555,Port Harcourt,Lagos,Nigeria,Raw Materials,2.8,15,Active,NGN,2024-02-15
+9d6ab3e7-1834-4248-9ef5-0064761bac46,VEN-0171,Crown Solutions,Jumoke,Chukwu,info@crownsolutions.com.ng,+2347608462856,Kaduna,Ogun,Nigeria,Catering,3.9,60,Active,NGN,2024-06-22
+129fd4d3-f863-4e19-8d94-9853c608edc2,VEN-0172,Prime Distributors,Rasheed,Danjuma,info@primedistributo.com.ng,+2347607922203,Onitsha,Edo,Nigeria,Logistics,3.4,30,Active,NGN,2024-04-30
+7d775875-c9fc-4c00-9690-8ad74adcde2a,VEN-0173,Apex Logistics,Latifah,Garba,info@apexlogistics.com.ng,+2348568633480,Kaduna,Kano,Nigeria,IT Equipment,3.5,30,Active,NGN,2024-02-19
+f71ee658-2081-482b-847d-1b7d704feba1,VEN-0174,Pinnacle Distributors,Kunle,Bakare,info@pinnacledistrib.com.ng,+2348772000789,Port Harcourt,Kaduna,Nigeria,Professional Services,2.8,60,Active,NGN,2024-04-17
+ff8492a9-b985-425a-b90d-63441bdb003c,VEN-0175,Sterling Distributors,Quadri,Fashola,info@sterlingdistrib.com.ng,+2349023851044,Warri,Edo,Nigeria,Catering,4.9,30,Active,NGN,2024-04-15
+21c11843-4f02-45c5-bf7e-e6a25f0f6a7f,VEN-0176,Pinnacle Solutions,Ifeanyi,Balogun,info@pinnaclesolutio.com.ng,+2348185683710,Ibadan,Anambra,Nigeria,Raw Materials,4.3,30,Active,NGN,2024-03-24
+25c2feef-01d5-4132-9400-fb08640a707f,VEN-0177,Sterling Solutions,Latifah,Emenike,info@sterlingsolutio.com.ng,+2348461085187,Lagos,Oyo,Nigeria,Maintenance,5.0,15,Active,NGN,2024-05-09
+e7eccb72-6441-4b8d-be2e-e568822fab60,VEN-0178,Emerald Logistics,Ifeanyi,Adeleke,info@emeraldlogistic.com.ng,+2349042644153,Ibadan,Ogun,Nigeria,Construction,3.7,15,Active,NGN,2024-01-04
+a0b5177f-70c4-486c-8065-72c5c2283572,VEN-0179,Atlantic Distributors,Vivian,Hassan,info@atlanticdistrib.com.ng,+2348652522188,Benin City,Anambra,Nigeria,Raw Materials,3.7,45,Active,NGN,2024-06-29
+b18e935f-e674-4312-aa6a-b632dc4f3010,VEN-0180,Titan Suppliers,Hassan,Okafor,info@titansuppliers.com.ng,+2348973325723,Lagos,Abuja,Nigeria,Maintenance,3.0,45,Active,NGN,2024-06-29
