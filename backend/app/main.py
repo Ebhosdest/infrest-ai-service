@@ -12,6 +12,7 @@ import structlog
 from app.config import get_settings
 from app.routes.chat import router as chat_router
 from app.routes.reports import router as reports_router
+from app.routes.setup import router as setup_router
 
 settings = get_settings()
 logger = structlog.get_logger()
@@ -45,6 +46,7 @@ app.add_middleware(
 # Register route groups
 app.include_router(chat_router)
 app.include_router(reports_router)
+app.include_router(setup_router)
 
 
 @app.get("/")

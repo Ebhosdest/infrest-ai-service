@@ -1,0 +1,6 @@
+id,warehouse_code,name,address,city,state,capacity_sqm,status
+53b4f65d-4334-4822-ae0e-560e1ae42ecd,WH-001,Lagos Main Warehouse,15 Apapa-Oshodi Expressway,Lagos,Lagos,5000,Active
+e8323102-826a-4542-b43f-2c063285852c,WH-002,Ikeja Distribution Centre,"42 Oregun Road, Ikeja",Lagos,Lagos,3000,Active
+643b18f6-3a9c-48e1-be76-e74d3e5f2a0b,WH-003,Abuja Regional Store,"Plot 234, Wuse Zone 5",Abuja,FCT,2000,Active
+0cb7bf08-b2bf-4335-8de6-68e0fd40f939,WH-004,Port Harcourt Depot,18 Trans-Amadi Industrial Layout,Port Harcourt,Rivers,2500,Active
+dff1a445-b22c-4487-a1ee-5efc6722abbc,WH-005,Ogun Factory Store,KM 22 Lagos-Abeokuta Expressway,Abeokuta,Ogun,4000,Active
